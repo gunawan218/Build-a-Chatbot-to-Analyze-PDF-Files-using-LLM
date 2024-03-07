@@ -3,7 +3,7 @@ Course Create AI powered apps with open source LangChain
 
 ## WELCOME
 
-## Author : 
+## Author : Sina Nazeri
 Mantee assigment from IBM Advance AI @ Infinite Learning Course Build-a-Chatbot-to-Analyze-PDF-Files-using-LLM
 
 ## Mantee Info
